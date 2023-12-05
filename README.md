@@ -4,7 +4,7 @@
 
 ###
 
-<div align="center">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-original.svg" height="30" alt="rubymine logo"  />
@@ -91,7 +91,6 @@
 </div>
 
 ###
-
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
@@ -100,11 +99,6 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats-silk-rho-12.vercel.app/api?username=akmo-ror&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&count_private=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=akmo-ror&theme=transparent&mode=weekly" height="150" alt="streak graph"  />
@@ -112,12 +106,11 @@
 </div>
 
 ###
-
 <br clear="both">
-![Snake animation](https://github.com/akmo-ror/akmo-ror/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://raw.githubusercontent.com/akmo-ror/akmo-ror/output/github-contribution-grid-snake.svg)
 
 ###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/akmo-ror/count.svg?"  />
 </div>
