@@ -114,8 +114,8 @@
 ###
 
 <br clear="both">
-
-![Snake animation](https://raw.githubusercontent.com/akmo-ror/akmo-ror/output/snake.svg)
+![Snake animation](https://github.com/akmo-ror/akmo-ror//blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://raw.githubusercontent.com/akmo-ror/akmo-ror/output/snake.svg) -->
 
 ###
 
