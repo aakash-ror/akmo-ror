@@ -100,19 +100,19 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats-silk-rho-12.vercel.app/api?username=akmo-ror&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=akmo-ror&theme=transparent&mode=weekly" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats-silk-rho-12.vercel.app/api/top-langs/?username=akmo-ror&layout=compact&hide_progress=false&theme=transparent&include_all_commits=true&count_private=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-silk-rho-12.vercel.app/api?username=aakash-ror&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=aakash-ror&theme=transparent&mode=weekly" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats-silk-rho-12.vercel.app/api/top-langs/?username=aakash-ror&layout=compact&hide_progress=false&theme=transparent&include_all_commits=true&count_private=true" height="150" alt="languages graph"  />
 </div>
 
 ###
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/akmo-ror/akmo-ror/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/aakash-ror/aakash-ror/output/github-contribution-grid-snake.svg)
 
 ###
 <div align="center">
-  <img src="https://profile-counter.glitch.me/akmo-ror/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/aakash-ror/count.svg?"  />
 </div>
 
 ###
